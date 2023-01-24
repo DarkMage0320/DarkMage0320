@@ -6,9 +6,9 @@
 ---
 
 ### Languages:
--Python
--HTML
--CSS
+- Python
+- HTML
+- CSS
 
 ---
 
